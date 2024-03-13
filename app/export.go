@@ -231,5 +231,4 @@ func (app *App) prepForZeroHeightGenesis(ctx sdk.Context, jailAllowedAddrs []str
 			return false
 		},
 	)
-
 }
