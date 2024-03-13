@@ -5,7 +5,7 @@ import (
 
 	keepertest "github.com/BitCannaGlobal/test/testutil/keeper"
 	"github.com/BitCannaGlobal/test/testutil/nullify"
-	"github.com/BitCannaGlobal/test/x/test/module"
+	test "github.com/BitCannaGlobal/test/x/test/module"
 	"github.com/BitCannaGlobal/test/x/test/types"
 	"github.com/stretchr/testify/require"
 )
